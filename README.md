@@ -39,27 +39,10 @@ Full-stack developer passionate about building SaaS platforms, developer tools, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiston-user&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiston-user&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiston-user&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
-> 📝 **Note:** To enable automatic YouTube video updates:
-> 1. Find your YouTube Channel ID by visiting your channel and checking the URL
-> 2. Update the `feed_list` in `.github/workflows/youtube-workflow.yml` with:
->    `https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID`
-> 3. Push changes and the workflow will automatically fetch your videos
 
 <p align="center">
   <a href="https://youtube.com/@root-plat">
@@ -67,25 +50,6 @@ Full-stack developer passionate about building SaaS platforms, developer tools, 
   </a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fiston-user&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiston-user&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 💻 Recent Projects
-
-<div align="center">
-  <a href="https://github.com/fiston-user/fiston-user">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fiston-user&repo=fiston-user&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
 ## 🤝 Connect With Me
 
