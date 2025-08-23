@@ -26,7 +26,7 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ULQ0ZttoPsQY0H6Cwq2Ug"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<table><tr><td><a href="$url"><img width="140px" src="https://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          template: '<a href="$url"><img width="32%" src="https://img.youtube.com/vi/$videoId/maxresdefault.jpg" alt="$title" style="margin-right:1%"></a>'
           max_post_count: 6
           
       - name: Commit and push if changed
