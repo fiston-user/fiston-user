@@ -41,7 +41,18 @@ Full-stack developer passionate about building SaaS platforms, developer tools, 
 
 ## 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=8qN7rMFsd3g"><img width="140px" src="https://img.youtube.com/vi/8qN7rMFsd3g/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8qN7rMFsd3g">Building a Microservices Backend with TypeScript: The Ultimate Guide</a><br/>Aug 1, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XlmQYlVqBIM"><img width="140px" src="https://img.youtube.com/vi/XlmQYlVqBIM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XlmQYlVqBIM">Build an AI Full-Stack App with Next.js and Express.js</a><br/>Mar 23, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=eaxlv8fXccc"><img width="140px" src="https://img.youtube.com/vi/eaxlv8fXccc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eaxlv8fXccc">Build Full Stack Project with Nextjs, React, Tailwind, Next Auth</a><br/>Mar 2, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=2TTsWqHYhS8"><img width="140px" src="https://img.youtube.com/vi/2TTsWqHYhS8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2TTsWqHYhS8">Build a Full Stack AI Document Assistant with Next.js and LangChain</a><br/>Nov 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NI4XEDjGJsU"><img width="140px" src="https://img.youtube.com/vi/NI4XEDjGJsU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NI4XEDjGJsU">How to Deploy Node.js Apps with Kubernetes, Docker &amp; CI/CD Pipeline</a><br/>Oct 14, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=gptjq4jJ1Pw"><img width="140px" src="https://img.youtube.com/vi/gptjq4jJ1Pw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gptjq4jJ1Pw">Build And Deploy Full Stack AI SaaS Platform With Nextjs, React, Tailwind, Express</a><br/>Oct 11, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 <p align="center">
