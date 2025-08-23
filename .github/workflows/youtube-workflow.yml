@@ -20,10 +20,9 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/@root-plat"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCyouhChannel"
           max_post_count: 6
-          template: "- [📺 $title]($url) - $date"
-          date_format: "mmm d, yyyy"
+          template: "- [$title]($url)"
           
       - name: Commit and push if changed
         run: |

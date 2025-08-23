@@ -1,4 +1,4 @@
-# =K Hi, I'm Fiston!
+# 👋 Hi, I'm Fiston!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;SaaS+Platform+Builder;Developer+Tools+Creator;AI+Application+Engineer" alt="Typing SVG" />
@@ -6,20 +6,20 @@
 
 <p align="center">
   <a href="https://youtube.com/@root-plat"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://github.com/fiston"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=fiston&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/fiston-user"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=fiston-user&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-## =� About Me
+## 🚀 About Me
 
 Full-stack developer passionate about building SaaS platforms, developer tools, and AI-powered applications. I love creating solutions that make developers' lives easier and businesses more efficient.
 
-- =- Currently working on innovative SaaS solutions
-- <1 Always learning and exploring new technologies
-- =� Passionate about AI integration and automation
-- <� Focus on scalable architecture and clean code
+- 🔭 Currently working on innovative SaaS solutions
+- 🌱 Always learning and exploring new technologies
+- 💡 Passionate about AI integration and automation
+- 🎯 Focus on scalable architecture and clean code
 
-## =� Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,21 +39,27 @@ Full-stack developer passionate about building SaaS platforms, developer tools, 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## =� GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiston&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiston&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fiston-user&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiston-user&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiston&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiston-user&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## <� Latest YouTube Videos
+## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+> 📝 **Note:** To enable automatic YouTube video updates:
+> 1. Find your YouTube Channel ID by visiting your channel and checking the URL
+> 2. Update the `feed_list` in `.github/workflows/youtube-workflow.yml` with:
+>    `https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID`
+> 3. Push changes and the workflow will automatically fetch your videos
 
 <p align="center">
   <a href="https://youtube.com/@root-plat">
@@ -61,32 +67,32 @@ Full-stack developer passionate about building SaaS platforms, developer tools, 
   </a>
 </p>
 
-## <� GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fiston&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fiston-user&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## =� Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiston&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiston-user&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## =� Recent Projects
+## 💻 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/fiston">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fiston&repo=fiston&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/fiston-user/fiston-user">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fiston-user&repo=fiston-user&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-## > Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://youtube.com/@root-plat">=� YouTube</a> "
-  <a href="https://github.com/fiston">=� GitHub</a> "
-  <a href="mailto:fiston.turner@outlook.com">=� Email</a>
+  <a href="https://youtube.com/@root-plat">📺 YouTube</a> •
+  <a href="https://github.com/fiston-user">💻 GitHub</a> •
+  <a href="mailto:fiston.turner@outlook.com">📧 Email</a>
 </p>
 
 ---
@@ -94,5 +100,5 @@ Full-stack developer passionate about building SaaS platforms, developer tools, 
 <div align="center">
   <b>Thanks for visiting! Don't forget to check out my latest videos and projects!</b>
   <br>
-  <i>Let's build something amazing together! =�</i>
+  <i>Let's build something amazing together! 🚀</i>
 </div>
