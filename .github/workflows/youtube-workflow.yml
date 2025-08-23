@@ -1,0 +1,35 @@
+name: Latest YouTube Videos
+on:
+  schedule:
+    # Runs every day at 12 AM UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-readme-with-youtube:
+    name: Update README with latest YouTube videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Pull latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/@root-plat"
+          max_post_count: 6
+          template: "- [📺 $title]($url) - $date"
+          date_format: "mmm d, yyyy"
+          
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Updated YouTube videos"
+          git push

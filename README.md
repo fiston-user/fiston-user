@@ -1,11 +1,98 @@
-## Hi there 👋
+# =K Hi, I'm Fiston!
 
-<!-- Social icons section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;SaaS+Platform+Builder;Developer+Tools+Creator;AI+Application+Engineer" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <a href="https://www.youtube.com/c/root-plat"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cMNSUQvYRt" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  <a href="https://youtube.com/@root-plat"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://github.com/fiston"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=fiston&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
+
+## =� About Me
+
+Full-stack developer passionate about building SaaS platforms, developer tools, and AI-powered applications. I love creating solutions that make developers' lives easier and businesses more efficient.
+
+- =- Currently working on innovative SaaS solutions
+- <1 Always learning and exploring new technologies
+- =� Passionate about AI integration and automation
+- <� Focus on scalable architecture and clean code
+
+## =� Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## =� GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiston&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiston&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiston&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## <� Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<p align="center">
+  <a href="https://youtube.com/@root-plat">
+    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube"/>
+  </a>
+</p>
+
+## <� GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fiston&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## =� Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiston&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## =� Recent Projects
+
+<div align="center">
+  <a href="https://github.com/fiston">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fiston&repo=fiston&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## > Connect With Me
+
+<p align="center">
+  <a href="https://youtube.com/@root-plat">=� YouTube</a> "
+  <a href="https://github.com/fiston">=� GitHub</a> "
+  <a href="mailto:fiston.turner@outlook.com">=� Email</a>
+</p>
+
+---
+
+<div align="center">
+  <b>Thanks for visiting! Don't forget to check out my latest videos and projects!</b>
+  <br>
+  <i>Let's build something amazing together! =�</i>
+</div>
