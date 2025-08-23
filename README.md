@@ -1,18 +1,3 @@
-<p align="center">
-  <a href="https://youtube.com/@root-plat"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://github.com/fiston-user"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=fiston-user&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
-
-## 🚀 About Me
-
-Full-stack developer passionate about building SaaS platforms, developer tools, and AI-powered applications. I love creating solutions that make developers' lives easier and businesses more efficient.
-
-- 🔭 Currently working on innovative SaaS solutions
-- 🌱 Always learning and exploring new technologies
-- 💡 Passionate about AI integration and automation
-- 🎯 Focus on scalable architecture and clean code
-
 ## 🛠️ Tech Stack
 
 <p align="left">
