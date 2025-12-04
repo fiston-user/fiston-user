@@ -32,7 +32,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://youtube.com/@root-plat">📺 YouTube</a> •
+  <a href="https://youtube.com/@withcodewise">📺 YouTube</a> •
   <a href="https://github.com/fiston-user">💻 GitHub</a> •
   <a href="mailto:fiston.turner@outlook.com">📧 Email</a>
 </p>
